@@ -7,6 +7,7 @@ This project shows Dashboard for "Osha work Fatility Data Ananlysis".
 A dataset of OSHA fatality reports of work-related deaths from June 2009 through Dec 31, 2021
 
 KEY INSIGHTS:
+
 ---Number of fatalities that received a state.
 
 ---Number of fatalities involving welding.
